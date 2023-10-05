@@ -1,0 +1,10 @@
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\bin\Debug\clickMe.exe.config
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\bin\Debug\clickMe.exe
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\bin\Debug\clickMe.pdb
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\obj\Debug\clickMe.csproj.AssemblyReference.cache
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\obj\Debug\clickMe.Form1.resources
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\obj\Debug\clickMe.Properties.Resources.resources
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\obj\Debug\clickMe.csproj.GenerateResource.cache
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\obj\Debug\clickMe.csproj.CoreCompileInputs.cache
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\obj\Debug\clickMe.exe
+Z:\C735_Mesa_Allan_Khester\clickMe\clickMe\obj\Debug\clickMe.pdb
